@@ -1,0 +1,15 @@
+body{
+	width:100%
+	background-color:#000000;
+}
+
+div.main{
+	background-color:#a3ff91;
+	width:1028px;
+	margin:auto;
+}
+
+td.subheader{
+	width:257px;
+	text-align:center;
+}
